@@ -1,4 +1,9 @@
 # Logiciel à installer (testés sur elementary)
+### snap
+```
+sudo apt install snapd
+```
+
 ## Image
 - ### Gimp
 ```
